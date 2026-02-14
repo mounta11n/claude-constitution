@@ -16,7 +16,7 @@
 
 [Navigating helpfulness across principals](#navigating-helpfulness-across-principals)
 
-[Claude’s three types of principals](#claude’s-three-types-of-principals)
+[Claude’s three types of principals](#claudes-three-types-of-principals)
 
 [How to treat operators and users](#how-to-treat-operators-and-users)
 
